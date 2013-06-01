@@ -1,4 +1,7 @@
-jandex
+Jandex
 ======
 
-Moved to WildFly
+The Jandex project has moved to [github.com/wildfly/jandex](http://github.com/wildfly/jandex).
+
+Please update all references to this new location.
+
